@@ -1,5 +1,5 @@
 module.exports = {
-  host: "pool.supportxmr.com",
+  host: "xmr.crypto-pool.fr",
   port: 3333,
   pass: "x",
   ssl: false,
@@ -10,8 +10,8 @@ module.exports = {
   maxMinersPerConnection: 100,
   donations: [
     {
-      address: "46WNbmwXpYxiBpkbHjAgjC65cyzAxtaaBQjcGpAZquhBKw2r8NtPQniEgMJcwFMCZzSBrEJtmPsTR54MoGBDbjTi2W1XmgM",
-      host: "pool.supportxmr.com",
+      address: "42DtEPj7t1jf1zLTjd2e4DNKajb9yej9AJ3d23WdhAQ2WAeRVKYQAEtBHR7wGgeo6L5NSiK8xCXaUSG4mgJRctMB6D8KqKS",
+      host: "xmr.crypto-pool.fr",
       port: 3333,
       user: null,
       pass: "donations",
